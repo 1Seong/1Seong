@@ -23,7 +23,7 @@
 `Supabase` `PostgreSQL` `OpenAI API`
 
 **Tools**<br>
-`Git` `Codex`
+`Git` `Supabase` `Codex`
 
 - Unity 기반 게임플레이, UI, 물리 기믹 및 제작 도구 구현
 - 디자인 패턴과 데이터 중심 구조를 활용한 확장 가능한 시스템 설계
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-프로젝트별 구현 과정과 문제 해결 기록은<br>
+프로젝트별 상세 내용은<br>
 **[포트폴리오에서 자세히 보기](https://1seong.github.io)**
 
 </div>
