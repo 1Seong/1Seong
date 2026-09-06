@@ -13,7 +13,17 @@
 
 ## Core Stack
 
-`Unity 6 / URP` `C#` `C++` `Supabase` `PostgreSQL` `Git`
+**Engine**<br>
+`Unity 6 / URP`
+
+**Languages**<br>
+`C#` `C++`
+
+**Backend & Data**<br>
+`Supabase` `PostgreSQL` `OpenAI API`
+
+**Tools**<br>
+`Git` `Codex`
 
 - Unity 기반 게임플레이, UI, 물리 기믹 및 제작 도구 구현
 - 디자인 패턴과 데이터 중심 구조를 활용한 확장 가능한 시스템 설계
@@ -23,12 +33,12 @@
 
 | Project | Description | Role & Stack |
 | --- | --- | --- |
-| **Eulerian Aurora** | 맵 제작부터 온라인 공유까지 연결한 UGC 3D 퍼즐 | Full-stack · Unity · Supabase · PostgreSQL |
+| **[Eulerian Aurora](https://github.com/1Seong/Capstone2)** | 맵 제작부터 온라인 공유까지 연결한 UGC 3D 퍼즐 | Full-stack · Unity · Supabase · PostgreSQL |
 | **SQUARE::ERAUQS** | 시점 전환과 커스텀 중력을 활용한 2D 퍼즐 플랫포머 | Lead Programmer · Unity · C# · Android |
-| **Save The World** | 6·25 전쟁유공자의 삶을 담은 포인트 앤 클릭 게임 | Solo Client · Unity · C# · Shader Graph |
-| **오,막하세!** | 재료 조합과 레시피 발견 중심의 식당 경영 게임 | Client · Unity · C# · MVC |
-| **Detective A&I** | 플레이어의 자연어 추론을 반영하는 AI 추리 게임 | Full-stack · OpenAI API · Supabase |
-| **Hell Pit** | 1.44MB 제한 안에서 제작한 후크 액션 게임 | Solo · C++ · Win32 API · Codex |
+| **[Save The World](https://github.com/1Seong/SaveTheWorld)** | 6·25 전쟁유공자의 삶을 담은 포인트 앤 클릭 게임 | Solo Client · Unity · C# · Shader Graph |
+| **[오,막하세!](https://github.com/1Seong/OMakHase)** | 재료 조합과 레시피 발견 중심의 식당 경영 게임 | Client · Unity · C# · MVC |
+| **[Detective A&I](https://github.com/1Seong/DetectiveAI)** | 플레이어의 자연어 추론을 반영하는 AI 추리 게임 | Full-stack · OpenAI API · Supabase |
+| **[Hell Pit](https://github.com/1Seong/hell-pit)** | 1.44MB 제한 안에서 제작한 후크 액션 게임 | Solo · C++ · Win32 API · Codex |
 
 <div align="center">
 
