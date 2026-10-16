@@ -4,8 +4,6 @@
 
 ### Game Client Programmer
 
-플레이어의 입력을 자연스러운 게임 경험으로 연결하고,<br>
-확장 가능한 게임플레이 시스템을 설계합니다.
 
 [Portfolio](https://1seong.github.io) · [Email](mailto:qwik0102@gmail.com) · [Notion](https://www.notion.so/9516adf7733d404ebc914550ff4af2a2)
 
