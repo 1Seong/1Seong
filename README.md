@@ -36,7 +36,7 @@
 | Project | Description | Role & Stack |
 | --- | --- | --- |
 | **[Eulerian Aurora](https://github.com/1Seong/Capstone2)** | 맵 제작부터 온라인 공유까지 연결한 UGC 3D 퍼즐 | Full-stack · Unity · Supabase · PostgreSQL |
-| **SQUARE::ERAUQS** | 시점 전환과 커스텀 중력을 활용한 2D 퍼즐 플랫포머 | Lead Programmer · Unity · C# · Android |
+| **[SQUARE::ERAUQS](https://github.com/1Seong/SQUARE-ERAUQS)** | 시점 전환과 커스텀 중력을 활용한 2D 퍼즐 플랫포머 | Lead Programmer · Unity · C# · Android |
 | **[Save The World](https://github.com/1Seong/SaveTheWorld)** | 6·25 전쟁유공자의 삶을 담은 포인트 앤 클릭 게임 | Solo Client · Unity · C# · Shader Graph |
 | **[오,막하세!](https://github.com/1Seong/OMakHase)** | 재료 조합과 레시피 발견 중심의 식당 경영 게임 | Client · Unity · C# · MVC |
 
@@ -46,6 +46,7 @@
 | --- | --- | --- |
 | **[Detective A&I](https://github.com/1Seong/DetectiveAI)** | 플레이어의 자연어 추론을 반영하는 AI 추리 게임 | Full-stack · OpenAI API · Supabase |
 | **[Hell Pit](https://github.com/1Seong/hell-pit)** | 1.44MB 제한 안에서 제작한 후크 액션 게임 | Solo · C++ · Win32 API · Codex |
+| **[Necromancer Survivors](https://github.com/roxasventus/CIEN-tutorial-project-team2)** | 보스전과 함정을 더한 뱀서라이크 액션 게임 | Client · Unity · C# |
 
 <div align="center">
 
